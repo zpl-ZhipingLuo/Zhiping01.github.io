@@ -1,11 +1,15 @@
 # Zhiping Luo
-**Email: zhipingluo.zpl@gmail.com**  
-**Tel. : +85 15910995386**  
-**Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022**
+Email: zhipingluo.zpl@gmail.com  
+Tel. : +85 15910995386  
+Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022
 
 ## Education
 
 ## Working experience
++ [Jan. 2018 - Mar. 2021]    Sanofi  
+Clinical Study Data Manager
++ [Jun. 2017 - Jan. 2018] China National Pharmaceutical Industry Corporation Ltd  
+Research Assistant
 
 ## Clinical Projects
 + A phase 3 clinical study developing the anti-CD38 monoclonal antibodies therapeutic agent for multiple myeloma
