@@ -1,7 +1,7 @@
 # Zhiping Luo
-### Email: zhipingluo.zpl@gmail.com
-### Tel. : +85 15910995386
-### Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022
+**Email: zhipingluo.zpl@gmail.com**  
+**Tel. : +85 15910995386**  
+**Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022**
 
 ## Education
 
