@@ -6,10 +6,8 @@ Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022
 ## Education
 
 ## Working experience
-+ [Jan. 2018 - Mar. 2021]    Sanofi  
-Clinical Study Data Manager
-+ [Jun. 2017 - Jan. 2018] China National Pharmaceutical Industry Corporation Ltd  
-Research Assistant
++ [2018.01 - 2021.03] Sanofi  **Clinical Study Data Manager**
++ [2017.06 - 2018.01] China National Pharmaceutical Industry Corporation Ltd  **Research Assistant**
 
 ## Clinical Projects
 + A phase 3 clinical study developing the anti-CD38 monoclonal antibodies therapeutic agent for multiple myeloma
@@ -21,8 +19,17 @@ Research Assistant
 + A study comparing efficacy and safety of iGlarLixi in patients with type 2 diabetes mellitus
 + A randomized, parallel-group comparison of SAR341402 to Novolog in Audit patients with diabetes mellitus
 
+## Research Projects
++ Investigations of plant cyclopeptide RA-V on EMT of breast cancer 
++ Effects of Cyclopeptide RA-V on breast cancer stem cells
++ Pharmacological and biological investigations of plant cyclopeptides
++ DNA Extraction and PCR Detection of Agkistrodon and Black Snake 
+
+
+
+
 ## Honors & Awards
-+ [2020] Sanofi CSO China Functional Award (Marvelous contribution for supporting oncology clinical study) in 2020
++ [2020] Sanofi CSO China Functional Award (Marvelous contribution for supporting oncology clinical study)
 + [2019] Sanofi Golden Step Award
 + [2019] Sanofi CSO China Functional Award (Great contribution for Oncology Study)
 + [2018] Sanofi Golden Step Award
