@@ -22,7 +22,7 @@ GPA: 3.15/4.0
 
 ## Working experience
 
-+ **Sanofi**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Research & Development Department**&emsp;&emsp;&emsp;[2018.01 - 2021.03]  
++ **Sanofi**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Research & Development Department**&emsp;&emsp;&emsp;[2018.01 - 2021.03]  
 Assisted in the R & D and clinical operations department with a focus on clinical data management  
 Performed comprehensive data management tasks including data review, data analysis and database design  
 Developed and maintained good communication and work relationships with global study team  
