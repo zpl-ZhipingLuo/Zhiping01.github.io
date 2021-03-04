@@ -5,30 +5,31 @@ Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022
 
 ## Education  
 **China Pharmaceutical University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2014.09 - 2017.06  
-Master of Science&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nanjing, China  
+Master of Science&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Nanjing, China  
 Major: Pharmaceutical Science  
 GPA: 3.5/4.0  
 **The Chinese University of Hong Kong** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.12 - 2017.04  
-Visiting Graduate Student&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hong Kong, China  
+Visiting Graduate Student&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hong Kong, China  
 Research Area: Pharmacology & Stem cell Biology & Immunology  
 **Chinese Academy of Science**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015.06 - 2015.12  
-Visiting Graduate Student&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Kunming, China
+Visiting Graduate Student&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Kunming, China  
 Research Area: Cancer Biology & Pharmacology  
 **Henan University of Chinese Medicine** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;2010.09 - 2014.09  
-Bachelor of Science&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Zhengzhou, China  
+Bachelor of Science&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Zhengzhou, China  
 Major: Pharmacy  
 GPA: 3.15/4.0
 
 
 ## Working experience
 
-**Sanofi**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Research & Development Department**&emsp;&emsp;&emsp;[2018.01 - 2021.03]  
+**Sanofi**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;2018.01 - 2021.03  
+Clinical Study Data Manager&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;Beijing, China
 Assisted in the R & D and clinical operations department with a focus on clinical data management  
 Performed comprehensive data management tasks including data review, data analysis and database design  
 Developed and maintained good communication and work relationships with global study team  
 Provided relevant trainings to new members of the team
 
-**China National Pharmaceutical Industry Corporation Ltd**&emsp;&emsp;**Research & Development Department**&emsp;&emsp;&emsp;[2017.06 - 2018.01]  
+**China National Pharmaceutical Industry Corporation Ltd**&emsp;&emsp;**Research & Development Department**&emsp;&emsp;&emsp;2017.06 - 2018.01  
 Conducted experiments independently in the realm of cell biology   
 Write protocols, reports and technical documents, collected experimental data, performed analytical and statistical work  
 Applied advanced technical and functional knowledge to the design of experiments
