@@ -4,17 +4,17 @@ Tel. : +85 15910995386
 Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022
 
 ## Education  
-**China Pharmaceutical University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2014.09 - 2017.06  
+**China Pharmaceutical University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2014.09 - 2017.06  
 Master of Science
 Major: Pharmaceutical Science  
 GPA: 3.5/4.0  
-**The Chinese University of Hong Kong** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.12 - 2017.04  
+**The Chinese University of Hong Kong** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.12 - 2017.04  
 Visiting Graduate Student  
 Research Area: Pharmacology & Stem cell Biology & Immunology  
-**Chinese Academy of Science**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015.06 - 2015.12  
+**Chinese Academy of Science**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2015.06 - 2015.12  
 Visiting Graduate Student
 Research Area: Cancer Biology & Pharmacology  
-**Henan University of Chinese Medicine** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;2010.09 - 2014.09  
+**Henan University of Chinese Medicine** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;2010.09 - 2014.09  
 Bachelor of Science
 Major: Pharmacy  
 GPA: 3.15/4.0
@@ -22,13 +22,13 @@ GPA: 3.15/4.0
 
 ## Working experience
 
-+ **Sanofi**, **Clinical Study Data Manager**[2018.01 - 2021.03]  
++ **Sanofi**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Research & Development Department**&emsp;&emsp;&emsp;[2018.01 - 2021.03]  
 Assisted in the R & D and clinical operations department with a focus on clinical data management  
 Performed comprehensive data management tasks including data review, data analysis and database design  
 Developed and maintained good communication and work relationships with global study team  
 Provided relevant trainings to new members of the team
 
-+ **China National Pharmaceutical Industry Corporation Ltd**, **Research Assistant**   [2017.06 - 2018.01]  
++ **China National Pharmaceutical Industry Corporation Ltd**&emsp;**Research & Development Department**&emsp;&emsp;&emsp;&emsp;&emsp;[2017.06 - 2018.01]  
 Conducted experiments independently in the realm of cell biology   
 Write protocols, reports and technical documents, collected experimental data, performed analytical and statistical work  
 Applied advanced technical and functional knowledge to the design of experiments
