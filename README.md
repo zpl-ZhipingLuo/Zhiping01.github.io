@@ -22,13 +22,13 @@ GPA: 3.15/4.0
 
 ## Working experience
 
-+ **Clinical Study Data Manager**,  **Sanofi**  [2018.01 - 2021.03]  
++ **Sanofi**, **Clinical Study Data Manager**[2018.01 - 2021.03]  
 Assisted in the R & D and clinical operations department with a focus on clinical data management  
 Performed comprehensive data management tasks including data review, data analysis and database design  
 Developed and maintained good communication and work relationships with global study team  
 Provided relevant trainings to new members of the team
 
-+ **Research Assistant**, **China National Pharmaceutical Industry Corporation Ltd**  [2017.06 - 2018.01]  
++ **China National Pharmaceutical Industry Corporation Ltd**, **Research Assistant**   [2017.06 - 2018.01]  
 Conducted experiments independently in the realm of cell biology   
 Write protocols, reports and technical documents, collected experimental data, performed analytical and statistical work  
 Applied advanced technical and functional knowledge to the design of experiments
@@ -50,8 +50,13 @@ Applied advanced technical and functional knowledge to the design of experiments
 + Pharmacological and biological investigations of plant cyclopeptides
 + DNA Extraction and PCR Detection of Agkistrodon and Black Snake 
 
-
-
+## Conferences
++ Asian Forum on Modern Research of Traditional Chinese Medicines [Nanjing, 2016.11]  
+Participated in the student Forum  
+Participated in the academic speech contest
++ The 5th Annual meeting of GP-TCM Research Association-cum-Summit on Compendium of Materia and Innovative Drug Discovery in Chinese Medicine [Hong Kong, 2016.08]  
+Presented an academic poster  
+Participated in the academic reports
 
 ## Honors & Awards
 + [2020] Sanofi CSO China Functional Award (Marvelous contribution for supporting oncology clinical study)
