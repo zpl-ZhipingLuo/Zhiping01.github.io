@@ -3,7 +3,7 @@ Email: zhipingluo.zpl@gmail.com
 Tel. : +85 15910995386  
 Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022
 
-![zhi](/E:/05-Photos/个人主页图片/ZhipingLuo.PNG）
+![zhi](/E:/05-Photos/markdown/ZhipingLuo.png）
 
 ## Education  
 **China Pharmaceutical University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2014.09 - 2017.06  
