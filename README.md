@@ -21,13 +21,14 @@ GPA: 3.15/4.0
 
 
 ## Working experience
-+ [2018.01 - 2021.03] **Clinical Study Data Manager**,  **Sanofi**  
+
++ **Clinical Study Data Manager**,  **Sanofi**  [2018.01 - 2021.03]  
 Assisted in the R & D and clinical operations department with a focus on clinical data management  
 Performed comprehensive data management tasks including data review, data analysis and database design  
 Developed and maintained good communication and work relationships with global study team  
 Provided relevant trainings to new members of the team
 
-+ [2017.06 - 2018.01] **Research Assistant**, **China National Pharmaceutical Industry Corporation Ltd**  
++ **Research Assistant**, **China National Pharmaceutical Industry Corporation Ltd**  [2017.06 - 2018.01]  
 Conducted experiments independently in the realm of cell biology   
 Write protocols, reports and technical documents, collected experimental data, performed analytical and statistical work  
 Applied advanced technical and functional knowledge to the design of experiments
