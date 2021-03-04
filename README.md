@@ -36,15 +36,15 @@ Write protocols, reports and technical documents, collected experimental data, p
 Applied advanced technical and functional knowledge to the design of experiments
 
 
-## Clinical Projects
-+ A phase 3 clinical study developing the anti-CD38 monoclonal antibodies therapeutic agent for multiple myeloma
-+ A phase 3 clinical study assessing the effect of anti-CD38 monoclonal antibodies therapeutic agent in patients with newly diagnosed multiple myeloma
-+ A phase 2 trial in premenopausal and postmenopausal patients with estrogen receptor-positive, HER2-negative locally advanced or metastatic breast cancer with prior exposure to hormonal therapies
-+ A phase 1/2 preliminary efficacy and pharmacokinetic study assessing the combination of anti-CD38 and anti-PD-1 monoclonal antibodies in patients with advanced malignancies
-+ A phase 3 study to evaluate the efficacy and safety of an immunosuppressant agent in patients with moderate-to-severe atopic dermatitis. (Global Launch)
-+ A study evaluating the efficacy and safety of a human immunoglobulin G1 monoclonal antibody against IL-6 in patients with active Rheumatoid Arthritis (Global Launch)
-+ A study comparing efficacy and safety of iGlarLixi in patients with type 2 diabetes mellitus
-+ A randomized, parallel-group comparison of SAR341402 to Novolog in Audit patients with diabetes mellitus
+## Clinical Trials
++ Phase 3 study assessing the clinical benefit of isatuximab in patients with newly diagnosed multiple myeloma not eligible for transplant
++ Phase 3 study assessing the clinical benefit of isatuximab in patients with relapsed and/or refractory myltiple myeloma
++ Phase 1/2 safety, preliminary efficacy and pharmacokinetic (PK) study of isatuximab in patients with advanced malignancies
++ Phase 2 study of SAR439859 versus physician’s choice in premenopausal and postmenopausal locally advanced or metaststic ER-positive breast cancer
++ Phase 2 study comparing efficacy and safety of iGlarLixi in patients with type 2 diabetes mellitus)
++ Randomized, parallel-group comparison of SAR341402 to Novolog® in Audit patients with diabetes mellitus
++ Double-blinded, placebo-controlled study to evaluate the efficacy and safety of dupilumab in Chinese adult patients with moderate-to-severe atopic dermatitis
++ Multi-center, uncontrolled extension study evaluating the efficacy and safety of sarilumab in patients with active Rheumatoid Arthritis 
 
 ## Research Projects
 + Investigations of plant cyclopeptide RA-V on EMT of breast cancer 
