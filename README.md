@@ -53,7 +53,7 @@ Applied advanced technical and functional knowledge to the design of experiments
 + DNA Extraction and PCR Detection of Agkistrodon and Black Snake 
 
 ## Conferences
-+ Asian Forum on Modern Research of Traditional Chinese Medicines&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2016.12  
++ Asian Forum on Modern Research of Traditional Chinese Medicines&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016.12  
 + Participated in the student Forum  
 Participated in the academic speech contest
 + The 5th Annual meeting of GP-TCM Research Association-cum-Summit on Compendium of Materia and Innovative Drug Discovery in Chinese Medicine&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2016.08  
