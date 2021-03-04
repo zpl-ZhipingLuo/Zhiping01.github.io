@@ -3,8 +3,6 @@ Email: zhipingluo.zpl@gmail.com
 Tel. : +85 15910995386  
 Address: 112 Jianguo Rd, Jianwai street, Beijing, China 100022
 
-![zhi](https://image.baidu.com/search/detail?z=0&word=%E5%AE%A0%E7%89%A9%E5%9B%BE%E7%89%87&hs=0&pn=0&spn=0&di=&pi=227011&tn=baiduimagedetail&is=&ie=utf-8&oe=utf-8&cs=4162611394%2C4275913936&os=&simid=&adpicid=0&lpn=0&fr=albumsdetail&fm=&ic=0&sme=&cg=&bdtype=&oriquery=&objurl=https%3A%2F%2Ft7.baidu.com%2Fit%2Fu%3D4162611394%2C4275913936%26fm%3D193%26f%3DGIF&fromurl=ipprf_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bejj6_z%26e3Bv54AzdH3Fri5p5AzdH3Fnan0m9c8n%3F7p4_f576vj%3Dkwt17%267p4_4j1t74%3Dt4w2jfjw6vi%26vit1%3Dlad&gsm=0&islist=&querylist=&album_tab=%E5%8A%A8%E7%89%A9&album_id=685）
-
 ## Education  
 **China Pharmaceutical University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2014.09 - 2017.06  
 Master of Science&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Nanjing, China  
