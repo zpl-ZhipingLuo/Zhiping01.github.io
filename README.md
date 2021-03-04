@@ -22,15 +22,15 @@ GPA: 3.15/4.0
 
 ## Working experience
 
-**Sanofi**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.01 - 2021.03  
-Clinical Study Data Manager&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;Beijing, China  
+**Sanofi**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.01 - 2021.03  
+Clinical Study Data Manager&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; &emsp;&emsp;&emsp;Beijing, China  
 Assisted in the R & D and clinical operations department with a focus on clinical data management  
 Performed comprehensive data management tasks including data review, data analysis and database design  
 Developed and maintained good communication and work relationships with global study team  
 Provided relevant trainings to new members of the team
 
-**China National Pharmaceutical Industry Corporation Ltd**&emsp;&emsp;&emsp;&emsp;&emsp;2017.06 - 2018.01  
-Research Assistant&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Beijing, China  
+**China National Pharmaceutical Industry Corporation Ltd**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2017.06 - 2018.01  
+Research Assistant&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Beijing, China  
 Conducted experiments independently in the realm of cell biology   
 Write protocols, reports and technical documents, collected experimental data, performed analytical and statistical work  
 Applied advanced technical and functional knowledge to the design of experiments
