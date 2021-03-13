@@ -38,7 +38,7 @@ Applied advanced technical and functional knowledge to the design of experiments
 
 ## Clinical Trials
 + Phase 3 study assessing the clinical benefit of isatuximab in patients with newly diagnosed multiple myeloma not eligible for transplant
-+ Phase 3 study assessing the clinical benefit of isatuximab in patients with relapsed and/or refractory myltiple myeloma
++ Phase 3 study assessing the clinical benefit of isatuximab in patients with relapsed and/or refractory multiple myeloma
 + Phase 1/2 safety, preliminary efficacy and pharmacokinetic (PK) study of isatuximab in patients with advanced malignancies
 + Phase 2 study of SAR439859 versus physician’s choice in premenopausal and postmenopausal locally advanced or metaststic ER-positive breast cancer
 + Phase 2 study comparing efficacy and safety of iGlarLixi in patients with type 2 diabetes mellitus)
